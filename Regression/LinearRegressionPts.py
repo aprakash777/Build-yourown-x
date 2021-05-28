@@ -32,7 +32,7 @@ fig, ax = plt.subplots(figsize = (10,10))
 plt.scatter(x,y, color = 'blue', label = 'Points')
 plt.plot(x,y_predicted, color = 'red', label = 'Linear Regression')
 plt.legend()
-plt.ylim(0.5, 20.5) #dont do 0 because there's no 0 position
+plt.ylim(0.5, 20.5) 
 plt.yticks([1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]) 
 plt.gca().invert_yaxis()#rewrite because it should be from low to high
 plt.xlabel('Points')
