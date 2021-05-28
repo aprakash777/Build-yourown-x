@@ -3,6 +3,6 @@ Programs/Projects for Python, mostly Data Visualisation.
 Anaconda-Spyder preferably.
 
 
-![Build-yourown-x logo](C:\Users\Akshay Prakash\Downloads\Richard Feynman.png)
+![Github logo](C:\Users\Akshay Prakash\Downloads\Richard Feynman.png)
  
 Format: ![Alt Text](url)
