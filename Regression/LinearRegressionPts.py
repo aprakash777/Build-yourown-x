@@ -50,21 +50,3 @@ y = int(input("Enter a number: "))
 x = (y- intercept)/slope
 print(x)
 
-"""
-For example, when a team reaches 81 points (Substitute y= 1 in the y= mx + c eqn) 
-they are title contenders for the season. 
-They are statistically competing for the title. Of course, it depends on 
-when they reach that point. The earlier they reach it, statiscally they are 
-running away with the title. Although, there may be exceptional cases such as 
-in 18/19 Man city reached the 83 point mark with 5 games left in the season.
-They were not confirmed as winners as Liverpool was closing the gap as seen in the plot. 
-
-This season Man City were only confirmed as champions once they reached 83 points with 
-2 games left. [Match 35 - 80], [M36-83 ]. 
-
-"""
-
-"""
-https://realpython.com/linear-regression-in-python/ I used this to learn how I can apply
-Linear regression in Python using the sklearn library
-"""
