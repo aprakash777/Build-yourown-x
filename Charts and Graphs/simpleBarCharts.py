@@ -10,7 +10,7 @@ import pandas as pd
 import matplotlib.pyplot as plt 
 
 #This line makes us show the chart in notebook 
-table = pd.read_csv(r'C:\Users\Akshay Prakash\Downloads\1617table.csv')
+table = pd.read_csv(r'\1617table.csv')
 table.head()
 #.bar() argument plots our data {2 arguments_ x and height}
 plt.bar(x=np.arange(1,21), height = table['Pts'])
