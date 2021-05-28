@@ -12,6 +12,7 @@ Anaconda-Spyder/Jupyter preferably.
  * [How to Bar Charts in Python](https://www.w3schools.com/python/matplotlib_scatter.asp)
 
  * [How to Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
- ###Source
+ 
+ ### Source
  * [Regression](https://guides.github.com/features/mastering-markdown/)
  
