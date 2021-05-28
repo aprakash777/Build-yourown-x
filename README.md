@@ -4,6 +4,6 @@ Anaconda-Spyder preferably.
 
 * Hello
 
-![logo](\Richard%20Feynman.png)
+![logo](\Richard Feynman.png)
  
 Format: ![Alt Text](url)
