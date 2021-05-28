@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
-df = pd.read_csv(r'C:\Users\Akshay Prakash\Downloads\96-20PL.csv')
-df1 = pd.read_csv(r'C:\Users\Akshay Prakash\Downloads\F2021PL.csv')
+df = pd.read_csv(r'\96-20PL.csv')
+df1 = pd.read_csv(r'\F2021PL.csv')
 newframe = [df, df1]
 NewResult = pd.concat(newframe)
 
